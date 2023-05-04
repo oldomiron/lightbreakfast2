@@ -1,0 +1,161 @@
+*{
+	margin: 0;	
+}
+.header{
+	height: 62px;
+	background-color: #ffffff;
+	padding-top: 38px;
+	padding-left: 98px;
+	padding-right: 98px;
+}
+.header__logo{
+	float: left;
+	width: 31px;
+	height: 25px;
+}
+.header__menu{
+	float: right;
+	padding-top: 7px;
+
+}
+.header__button{
+	float: left;
+	margin-left: 30px;
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	color: #191919;
+}
+.content{
+	height: 570px;
+	background-color: #f6f6f6;
+
+}
+.content__left{
+	float: left;
+	padding-left: 98px;
+	padding-top: 105px;
+}
+.content__title{
+	font-family: Montserrat;
+	font-size: 38px;
+	font-weight: 500;
+	letter-spacing: 0.01em;
+	color: #171717;
+}
+.content__text{
+	font-family: 'Nunito Sans';
+	font-size: 16px;
+	font-weight: 400;
+	letter-spacing: 0.005em;
+	color: #787878;
+	margin-top: 33px;
+}
+.content__info{
+	font-family: 'Nunito Sans';
+	font-size: 16px;
+	letter-spacing: 0.005em;
+	font-weight: 400;
+	color: #787878;
+	margin-top: 60px;
+
+}
+.content__right{
+	width: 50%;
+	height: 570px; 
+	float: right;
+	background-image: url(img/zavtrak.png);
+	background-position: center;
+	background-size: cover;
+
+}
+.nav{
+	height: 54px;
+	background-color: #ffffff;
+	padding-left: 98px;
+	padding-top: 46px;
+	padding-right: 98px;
+}
+.nav__left{
+	float:left;
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	color: #1d1d1d;
+}
+.nav__right{
+	float: right;
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	color: #1d1d1d;
+}
+.footer{
+	height: 184px;
+	background-color: #141414;
+	padding-left: 98px;
+	padding-right: 98px;
+	padding-top: 100px;
+}
+.footer__column1{
+	font-family: 'Nunito Sans';
+	font-size: 15px;
+	font-weight: 400;
+	letter-spacing: 0.005em;
+	color: #bcbcbc;
+	float: left;
+
+}
+.footer__column2{
+	font-family: 'Nunito Sans';
+	font-size: 15px;
+	font-weight: 400;
+	letter-spacing: 0.005em;
+	color: #bcbcbc;
+	float: left;
+	margin-left: 246px;
+}
+.footer__column3{
+	font-family: 'Nunito Sans';
+	font-size: 15px;
+	font-weight: 400;
+	letter-spacing: 0.005em;
+	color: #bcbcbc;
+	float: left;
+	margin-left: 145px;
+}
+.footer__column4{
+	font-family: 'Nunito Sans';
+	font-size: 15px;
+	font-weight: 400;
+	letter-spacing: 0.005em;
+	color: #bcbcbc;
+	float: left;
+	margin-left: 55px;	
+}
+.footer__column5{
+	font-family: 'Nunito Sans';
+	font-size: 15px;
+	font-weight: 400;
+	letter-spacing: 0.005em;
+	color: #bcbcbc;
+	float: left;
+	margin-left: 155px;
+}
+span{
+	font-weight: 700;
+	color: #171717;
+}
+.span1{
+	font-family: Montserrat;
+	font-size: 18px;
+	font-weight: 500;
+	letter-spacing: 0.01em;
+	color: #ffffff;
+}
